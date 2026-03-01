@@ -9,7 +9,7 @@ import {
   pageInfo,
   parseData,
   decodeId,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import { ENUM_PREFIX_LENGTH } from './constants';
 import {
   CLEAR,

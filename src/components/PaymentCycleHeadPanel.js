@@ -11,7 +11,7 @@ import {
   PublishedComponent,
   ValidatedTextInput,
   withModulesManager,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import PaymentCycleStatusPicker from '../pickers/PaymentCycleStatusPicker';
 import { codeSetValid, codeValidationCheck, codeValidationClear } from '../actions';
 

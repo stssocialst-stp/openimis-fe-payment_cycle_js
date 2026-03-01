@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useTranslations, Autocomplete } from '@openimis/fe-core';
+import { useTranslations, Autocomplete } from '@stssocialst-stp/fe-core';
 import { BASIC_FIELDS } from '../constants';
 
 function DeduplicationFieldPicker({

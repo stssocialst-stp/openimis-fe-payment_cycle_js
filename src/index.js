@@ -5,7 +5,7 @@ import React from 'react';
 
 import { LocalOffer } from '@material-ui/icons';
 
-import { FormattedMessage } from '@openimis/fe-core';
+import { FormattedMessage } from '@stssocialst-stp/fe-core';
 import { RIGHT_PAYMENT_CYCLE_SEARCH } from './constants';
 import reducer from './reducer';
 import messages_en from './translations/en.json';

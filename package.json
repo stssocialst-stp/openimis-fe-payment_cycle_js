@@ -1,9 +1,15 @@
 {
-  "name": "@openimis/fe-payment_cycle",
+  "name": "@stssocialst-stp/fe-payment_cycle",
   "version": "1.2.0-rc1",
   "license": "AGPL-3.0-only",
   "description": "openIMIS Frontend Payment Cycle module",
-  "repository": "openimis/openimis-fe-payment_cycle_js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stssocialst-stp/openimis-fe-payment_cycle_js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {

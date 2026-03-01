@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 import {
   Helmet,
   useTranslations, useModulesManager, useHistory, withTooltip,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import { makeStyles } from '@material-ui/styles';
 import { Fab } from '@material-ui/core';
 import AddIcon from '@material-ui/icons/Add';

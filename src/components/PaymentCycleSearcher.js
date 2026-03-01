@@ -7,7 +7,7 @@ import VisibilityIcon from '@material-ui/icons/Visibility';
 
 import {
   Searcher, useHistory, useModulesManager, useTranslations, PublishedComponent,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import { fetchPaymentCycles } from '../actions';
 import {
   DEFAULT_PAGE_SIZE,

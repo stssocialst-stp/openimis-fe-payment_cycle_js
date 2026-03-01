@@ -6,7 +6,7 @@ import {
 } from '@material-ui/core';
 import {
   FormattedMessage,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 
 const useStyles = makeStyles((theme) => ({
   paper: theme.paper.paper,

@@ -1,6 +1,6 @@
 import {
   graphql, formatMutation, formatQuery, formatPageQueryWithCount, graphqlWithVariables, formatGQLString,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import {
   CLEAR, ERROR, REQUEST, SUCCESS, VALID,
 } from './utils/action-type';

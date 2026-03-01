@@ -3,7 +3,7 @@ import { makeStyles } from '@material-ui/styles';
 import { connect, useSelector, useDispatch } from 'react-redux';
 import {
   Form, Helmet, useTranslations, useModulesManager, useHistory, journalize, coreAlert,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import _ from 'lodash';
 import { EMPTY_STRING, MODULE_NAME, PAYMENT_CYCLE_STATUS } from '../constants';
 import PaymentCycleHeadPanel from '../components/PaymentCycleHeadPanel';

@@ -3,7 +3,7 @@ import { TextField, Tooltip } from '@material-ui/core';
 
 import {
   Autocomplete, useModulesManager, useTranslations, useGraphqlQuery,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp/fe-core';
 import { PAYMENT_CYCLE_STATUS, PAYMENT_CYCLES_QUANTITY_LIMIT } from '../constants';
 
 function PaymentCyclePicker(props) {

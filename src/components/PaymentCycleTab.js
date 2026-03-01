@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Paper, Grid } from '@material-ui/core';
-import { Contributions } from '@openimis/fe-core';
+import { Contributions } from '@stssocialst-stp/fe-core';
 import { makeStyles } from '@material-ui/styles';
 import Button from '@material-ui/core/Button';
 import {
